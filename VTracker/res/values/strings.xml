@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prevRun">&lt;&lt;</string>
+    <string name="nextRun">&gt;&gt;</string>
+    <string name="stepBack">|&lt;</string>
+    <string name="stepForward">&gt;|</string>
+    <string name="play">Play</string>
+    <string name="run">Run:</string>
+    <string name="mph">MPH:</string>
+    <string name="lat">Lat:</string>
+    <string name="lon">Lon:</string>
+    <string name="totalRuns">Total Runs:</string>
+
+</resources>
